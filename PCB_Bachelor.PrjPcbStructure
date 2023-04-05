@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=SPE_Phy.SchDoc|SheetNumber=8
+Record=TopLevelDocument|FileName=Ethernet_Phy.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Ethernet_Phy.SchDoc|FileName=FPGA.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Ethernet_Phy.SchDoc|FileName=SPE_Phy.SchDoc|SheetNumber=8
